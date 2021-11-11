@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"pre, code {\r\n  background-color: #eef;\r\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,GAAG,EAAE,IAAI,CAAC,EACR,gBAAgB,EAAE,IAAI,GACvB"
+}
